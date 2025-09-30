@@ -1,1 +1,1 @@
-# stock_market_prediction-using-Reservoir-Computing
+# Stock Market Index Prediction using Reservoir Computing
