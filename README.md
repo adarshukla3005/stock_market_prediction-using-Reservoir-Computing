@@ -2,6 +2,10 @@
 
 This project implements and compares different neural network architectures (LSTM, RNN, and Echo State Network/Reservoir Computing) for predicting stock market prices. The implementation focuses on NASDAQ (^IXIC) and Dow Jones (^DJI) indices.
 
+<img width="680" height="283" alt="image" src="https://github.com/user-attachments/assets/9439d115-4a26-4b02-b4e3-29ebfb5231d1" />
+
+<img width="680" height="283" alt="image" src="https://github.com/user-attachments/assets/49af40d3-2300-471d-a695-034ccd58e969" />
+
 ## Features
 
 - Data acquisition using yfinance API
@@ -86,7 +90,7 @@ This project implements and compares different neural network architectures (LST
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[username]/[repository-name]
+git clone [https://github.com/adarshukla3005/stock_market_prediction-using-Reservoir-Computing.git]
 git submodule update --init --recursive
 ```
 
@@ -113,4 +117,5 @@ Detailed performance metrics and visualizations are available in the respective 
 ## References
 
 - pyESN implementation: [https://github.com/sunone5/pyESN/](https://github.com/sunone5/pyESN/)
+
 - Yahoo Finance API documentation
